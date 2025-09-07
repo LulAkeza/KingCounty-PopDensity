@@ -14,9 +14,11 @@ The project evaluates the advantages and limitations of isarithmic vs. dot mappi
 - `Lab_4-1.pdf` → Lab report with methodology, answers to lab questions, and discussion of results.  
 - `Layout1-2.jpg` → Map layout visualizing population density distribution in King County.
 
+## Map Preview
+![Population Density Map](Layout1-2.jpg)
+
 ## Summary
 - Generated conceptual centroid points from dasymetric areas.  
 - Built a Triangular Irregular Network (TIN) to visualize population density in 2D and 3D.  
 - Compared results with dot symbolization methods (graduated and proportional).  
 - Critically evaluated the effectiveness of each visualization technique for spatial analysis.
-
